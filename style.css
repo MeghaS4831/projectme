@@ -1,0 +1,37 @@
+.container {
+    text-align: center;
+}
+
+.menu {
+    background-color: antiquewhite;
+    list-style: none;
+    position: fixed;
+    width: 100%;
+    padding-top: 0px;
+    z-index: 10;
+    top: 0;
+}
+
+.links {
+    display: inline;
+    padding-right: 25px;
+    padding-left: 18px;
+    float: none;
+}
+
+#img1 {
+    width: 275px;
+    height: 200px;
+    padding: 2px;
+}
+
+#img0 {
+    width: 100%
+}
+
+hr {
+    width: 250px;
+}
+#home{
+  margin-top: 45px;
+}
